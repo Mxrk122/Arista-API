@@ -1,0 +1,12 @@
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\myapi.exe
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\appsettings.Development.json
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\appsettings.json
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\myapi.dll
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\myapi.deps.json
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\myapi.runtimeconfig.json
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\myapi.pdb
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\Microsoft.OpenApi.dll
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\Newtonsoft.Json.dll
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mark\Documents\Chamba\Arista\Landing\myapi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
