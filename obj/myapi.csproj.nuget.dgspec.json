@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mark\\Documents\\Chamba\\Arista\\Landing\\myapi\\myapi.csproj": {}
+    "C:\\Users\\Mark\\Documents\\Chamba\\Arista\\Landing\\caca\\myapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mark\\Documents\\Chamba\\Arista\\Landing\\myapi\\myapi.csproj": {
+    "C:\\Users\\Mark\\Documents\\Chamba\\Arista\\Landing\\caca\\myapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mark\\Documents\\Chamba\\Arista\\Landing\\myapi\\myapi.csproj",
+        "projectUniqueName": "C:\\Users\\Mark\\Documents\\Chamba\\Arista\\Landing\\caca\\myapi.csproj",
         "projectName": "myapi",
-        "projectPath": "C:\\Users\\Mark\\Documents\\Chamba\\Arista\\Landing\\myapi\\myapi.csproj",
+        "projectPath": "C:\\Users\\Mark\\Documents\\Chamba\\Arista\\Landing\\caca\\myapi.csproj",
         "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mark\\Documents\\Chamba\\Arista\\Landing\\myapi\\obj\\",
+        "outputPath": "C:\\Users\\Mark\\Documents\\Chamba\\Arista\\Landing\\caca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config"
